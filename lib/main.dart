@@ -149,7 +149,7 @@ class MyApp extends StatelessWidget {
                     color: Color.fromARGB(255, 107, 8, 80),
                   ),
                   title: Text(
-                    '+218 0923945144',
+                    '+218 94444444',
                     style: TextStyle(
                       color: Color.fromARGB(255, 107, 8, 80),
                       fontSize: 20.0,
@@ -173,7 +173,7 @@ class MyApp extends StatelessWidget {
                     color: Color.fromARGB(255, 107, 8, 80),
                   ),
                   title: Text(
-                    'zyna6@gmail.com',
+                    'zaina@gmail.com',
                     style: TextStyle(
                       fontSize: 20.0,
                       color: Color.fromARGB(255, 107, 8, 80),
@@ -197,7 +197,7 @@ class MyApp extends StatelessWidget {
                     color: Color.fromARGB(255, 107, 8, 80),
                   ),
                   title: Text(
-                    'https://zaina.com/',
+                    'https://zy.com/',
                     style: TextStyle(
                       fontSize: 20.0,
                       color: Color.fromARGB(255, 107, 8, 80),
